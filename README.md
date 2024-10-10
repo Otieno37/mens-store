@@ -1,1 +1,6 @@
-# mens-store
+![Screenshot 2024-10-10 153256](https://github.com/user-attachments/assets/a757c73f-35e2-4caa-ab32-d047b50853cc)
+![Screenshot 2024-10-10 153311](https://github.com/user-attachments/assets/4ab68988-2d5d-45fe-ba7e-a60d3b8d72cc)
+![Screenshot 2024-10-10 153337](https://github.com/user-attachments/assets/494070b6-08a6-4e79-ae43-f0e3f3e30867)
+![Screenshot 2024-10-10 153400](https://github.com/user-attachments/assets/ef789e3e-8f5f-4a86-8910-88d6c31ccbc9)
+![Screenshot 2024-10-10 153414](https://github.com/user-attachments/assets/646085e1-066b-4fd9-9bcc-d74bcae50698)
+![Screenshot 2024-10-10 153434](https://github.com/user-attachments/assets/5ac4daf1-c73d-42aa-934a-a388bb0121cb)
